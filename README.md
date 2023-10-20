@@ -4,8 +4,6 @@ This repository contains a collection of handwritten notes in PDF format coverin
 
 ## Data Mining and Data Warehousing Notes
 
-### Data Warehousing
-
 1\. **Differences Between Data Warehousing and DBMS**
 
 - Explore the distinctions between traditional Database Management Systems (DBMS) and Data Warehousing, understanding their purposes and architectural differences.
