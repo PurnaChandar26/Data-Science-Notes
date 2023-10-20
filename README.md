@@ -46,7 +46,7 @@ This repository contains a collection of handwritten notes in PDF format coverin
 
 - Gain insights into quantiles and box plots, valuable tools for visualizing data distribution and identifying outliers.
 
-### Data Scientist Notes
+## Data Scientist Notes
 
 1\. **Detailed Info about Data Visualization**
 
