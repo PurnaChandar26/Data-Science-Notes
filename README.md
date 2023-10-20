@@ -46,6 +46,24 @@ This repository contains a collection of handwritten notes in PDF format coverin
 
 - Gain insights into quantiles and box plots, valuable tools for visualizing data distribution and identifying outliers.
 
+### Data Scientist Notes
+
+1\. **Detailed Info about Data Visualization**
+
+- Learn about the art of data visualization, including the use of various charts and graphs to represent data effectively.
+
+2\. **Exploratory Data Analysis (EDA)**
+
+- Understand the importance of EDA in uncovering hidden patterns, trends, and anomalies within data.
+
+3\. **Machine Learning Algorithms**
+
+- Explore various machine learning algorithms, their applications, and their strengths and weaknesses.
+
+4\. **Underfitting and Overfitting**
+
+- Learn about the concepts of underfitting and overfitting in machine learning and how to address them.
+
 
 
 We hope you find these handwritten notes invaluable in your journey through data science. Feel free to download, study, and use them to expand your knowledge and skills. If you have any questions, suggestions, or contributions, please don't hesitate to reach out.
