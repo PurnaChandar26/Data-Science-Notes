@@ -76,6 +76,13 @@ This repository contains a collection of handwritten notes in PDF format coverin
 
 - Explore clustering algorithms, which group similar data points together, and their applications in data analysis.
 
+8\. **Data Cleaning and Preprocessing**
+
+- Understand the significance of data cleaning and preprocessing in ensuring data quality and preparing data for analysis.
+
+9\. **Student's T-Test**
+
+- Dive into the Student's t-test, a statistical test used to compare the means of two groups of data.
 
 
 We hope you find these handwritten notes invaluable in your journey through data science. Feel free to download, study, and use them to expand your knowledge and skills. If you have any questions, suggestions, or contributions, please don't hesitate to reach out.
