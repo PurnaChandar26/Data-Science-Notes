@@ -84,5 +84,12 @@ This repository contains a collection of handwritten notes in PDF format coverin
 
 - Dive into the Student's t-test, a statistical test used to compare the means of two groups of data.
 
+10\. **Types of Statistics and Probability**
+
+- Explore different types of statistics and the fundamental concepts of probability.
+
+11\. **Singular Value Decomposition (SVD) and Principal Component Analysis (PCA)**
+
+- Learn about dimensionality reduction techniques such as SVD and PCA, used to simplify complex datasets.
 
 We hope you find these handwritten notes invaluable in your journey through data science. Feel free to download, study, and use them to expand your knowledge and skills. If you have any questions, suggestions, or contributions, please don't hesitate to reach out.
