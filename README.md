@@ -72,6 +72,10 @@ This repository contains a collection of handwritten notes in PDF format coverin
 
 - Learn about hypothesis testing, a critical statistical technique for making data-driven decisions.
 
+7\. **Clustering**
+
+- Explore clustering algorithms, which group similar data points together, and their applications in data analysis.
+
 
 
 We hope you find these handwritten notes invaluable in your journey through data science. Feel free to download, study, and use them to expand your knowledge and skills. If you have any questions, suggestions, or contributions, please don't hesitate to reach out.
