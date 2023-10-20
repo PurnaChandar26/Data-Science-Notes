@@ -64,6 +64,14 @@ This repository contains a collection of handwritten notes in PDF format coverin
 
 - Learn about the concepts of underfitting and overfitting in machine learning and how to address them.
 
+5\. **Datafication and Big Data**
+
+- Discover the process of datafication, turning real-world events and objects into data, and understand the challenges and opportunities of big data.
+
+6\. **Hypothesis Testing**
+
+- Learn about hypothesis testing, a critical statistical technique for making data-driven decisions.
+
 
 
 We hope you find these handwritten notes invaluable in your journey through data science. Feel free to download, study, and use them to expand your knowledge and skills. If you have any questions, suggestions, or contributions, please don't hesitate to reach out.
