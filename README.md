@@ -1,6 +1,6 @@
 # Data Science Notes Repository
 
-Welcome to the "Data Science Notes" repository! This repository contains a collection of handwritten notes in PDF format covering a wide range of topics in the fields of data mining, data warehousing, and data science. Whether you're a beginner or an experienced professional, these notes will help you gain a deeper understanding of essential concepts in the world of data.
+This repository contains a collection of handwritten notes in PDF format covering a wide range of topics in the fields of data mining, data warehousing, and data science. Whether you're a beginner or an experienced professional, these notes will help you gain a deeper understanding of essential concepts in the world of data.
 
 ## Data Mining and Data Warehousing Notes
 
