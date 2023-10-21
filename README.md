@@ -2,6 +2,9 @@
 
 This repository contains a collection of handwritten notes in PDF format covering a wide range of topics in the fields of data mining, data warehousing, and data science. Whether you're a beginner or an experienced professional, these notes will help you gain a deeper understanding of essential concepts in the world of data.
 
+![image](https://github.com/PurnaChandar26/Data-Science-Notes/assets/97793147/8ea50d1e-d72e-40e8-b8e9-5bcc1d2529fc)
+
+
 ## Data Mining and Data Warehousing Notes
 
 1\. **Differences Between Data Warehousing and DBMS**
