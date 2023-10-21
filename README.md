@@ -5,7 +5,7 @@ This repository contains a collection of handwritten notes in PDF format coverin
 ![image](https://github.com/PurnaChandar26/Data-Science-Notes/assets/97793147/8ea50d1e-d72e-40e8-b8e9-5bcc1d2529fc)
 
 
-## Data Mining and Data Warehousing Notes
+## Data Mining and Data Warehousing Notes 
 
 1\. **Differences Between Data Warehousing and DBMS**
 
